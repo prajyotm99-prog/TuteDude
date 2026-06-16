@@ -3,5 +3,6 @@ Keyboard | 800 | 720.00
 Monitor | 7000 | 6300.00
 Pendrive | 400 | 360.00
 Camera | 5000 | 4500.00
-Average Discounted Price: 12330.00
+Average Discounted Price: 14796.00
 Total Items: 5
+the repo link is https://github.com/prajyotm99-prog/TuteDude/tree/main/GenAI-Task4-Prajyot
